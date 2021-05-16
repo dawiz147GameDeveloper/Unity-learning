@@ -10,3 +10,4 @@ After a break in using unity I decided to create something simple. I chose chess
  - [ ] Finish project
  used asset:
 - [FREE Chess Pieces and Boards](https://screamingbrainstudios.itch.io/isometric-chess)
+- [Cartoon Chess Pieces Set Graphic Asset](https://phobos.itch.io/car)
